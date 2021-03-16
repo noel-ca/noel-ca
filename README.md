@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @noel-ca
+- 👋 Hi, I’m Noel @noel-ca
 - 👀 I’m a software developer focused on iOS.
 - 🌱 I’m currently learning SwiftUI
 
